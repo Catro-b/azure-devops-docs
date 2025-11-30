@@ -96,7 +96,7 @@ az boards iteration project list [--depth]
 ```
 
 #### Parameters
-
+ 
 - **depth**: Optional. Depth of child nodes to be listed. Example: --depth 3.
 - **path**: Optional. Absolute path of an iteration. `\Iteration\` must follow after the `\ProjectName`, which distinguishes it from an area path. Example: --path \ProjectName\Iteration\IterationName. If spaces are used within a node, then enclose in double-quotes, for example,`--path "\Fabrikam Fiber\Iteration\Sprint 1"`. When not specified, lists iteration paths from the root level.  
 - **project**: Optional. Name or ID of the project. Example: `--project "Fabrikam Fiber"`.  
